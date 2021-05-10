@@ -1,6 +1,7 @@
-# git-set-GO
 
+#  git-set-GO
 
+<img src="resources/octocat.png"\>
 `git init`
 
 `tree`
