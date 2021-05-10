@@ -1,5 +1,26 @@
 # git-sheet
 
+we can discuss 
+- HEAD
+- repository
+- git init
+- org
+- git log
+- git revert
+- git clone
+- git status
+- git rebase
+- git stash
+- .gitignore
+- git installation
+- git checkout 
+- git branch and delete branch
+- gh-pages
+- **how to find issues and how to make pull request**
+- upstream
+- emojis and markdown
+- commits
+
 `git init`
 
 `tree`
