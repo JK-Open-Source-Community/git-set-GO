@@ -1,7 +1,7 @@
 
 #  git-set-GO
 
-![octocat](resources/octocat.png)
+![octocat](octocat.png)
  
 `git init`
 
