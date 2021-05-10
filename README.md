@@ -1,7 +1,6 @@
-
-#  git-set-GO
-
-![octocat](octocat.png)
+ # Hi! I am Octocat.
+<img src="octocat.png"
+     height="300" />
  
 `git init`
 
