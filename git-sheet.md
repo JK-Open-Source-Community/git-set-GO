@@ -21,11 +21,13 @@ we can discuss
 - emojis and markdown
 - commits
 
-`git init`
+### git init
 
-`tree`
+The git init command creates a new Git repository. It can be used to convert an existing, unversioned project to a Git repository or initialize a new, empty repository.
 
-`git status` → staged or unstaged
+### git status 
+
+The git status command displays the state of the working directory and the staging area. It lets you see which changes have been staged, which haven't, and which files aren't being tracked by Git.
 
 `git add .` → stage
 
