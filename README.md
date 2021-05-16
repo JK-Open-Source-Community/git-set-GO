@@ -8,6 +8,7 @@
 ## Index      
 - [git-sheet](git-sheet.md)
 - [windows terminal commands](windows.md)
+- [instructions to add yourself]()
 
 ## Contributors ✨
 
