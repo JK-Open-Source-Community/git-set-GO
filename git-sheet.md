@@ -1,6 +1,6 @@
 # git-sheet
 
-we can discuss 
+we should know
 - HEAD
 - repository
 - git init
