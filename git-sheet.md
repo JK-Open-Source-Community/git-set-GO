@@ -2,9 +2,9 @@
 
 we should know
 - HEAD
+- **how to find issues and how to make pull request**
 - repository
 - git init
-- org
 - git log
 - git revert
 - git clone
@@ -16,7 +16,6 @@ we should know
 - git checkout 
 - git branch and delete branch
 - gh-pages
-- **how to find issues and how to make pull request**
 - upstream
 - emojis and markdown
 - commits
